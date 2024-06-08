@@ -1,3 +1,6 @@
+Select * from plans
+Select * from subscriptions
+
 
 -- tao bang sub2, subscription co plan end date ---------
 drop table sub2;
